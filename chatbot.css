@@ -127,7 +127,7 @@
     /* sets the border radius of the element */
     border-radius: var(--spacing-large);
     /* sets the background color of the element */
-    background: var(--white);
+    background: #173464;
     /* sets the border of the element */
     border: 1px solid var(--zinc-200);
     /* sets the border radius of the element (repeated declaration) */
